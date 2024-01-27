@@ -1,0 +1,265 @@
+{
+    "Bhubaneswar": {
+        "coord": {
+            "lon": 85.8333,
+            "lat": 20.2333
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.27,
+            "feels_like": 296.86,
+            "temp_min": 297.27,
+            "temp_max": 297.27,
+            "pressure": 1018,
+            "humidity": 43
+        },
+        "visibility": 3000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1705911792,
+        "sys": {
+            "type": 1,
+            "id": 9113,
+            "country": "IN",
+            "sunrise": 1705884877,
+            "sunset": 1705924861
+        },
+        "timezone": 19800,
+        "id": 1275817,
+        "name": "Bhubaneswar",
+        "cod": 200
+    },
+    "Delhi": {
+        "coord": {
+            "lon": 77.2167,
+            "lat": 28.6667
+        },
+        "weather": [
+            {
+                "id": 741,
+                "main": "Fog",
+                "description": "fog",
+                "icon": "50d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 286.2,
+            "feels_like": 286.02,
+            "temp_min": 286.2,
+            "temp_max": 286.2,
+            "pressure": 1018,
+            "humidity": 94
+        },
+        "visibility": 500,
+        "wind": {
+            "speed": 2.06,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1705216863,
+        "sys": {
+            "type": 1,
+            "id": 9165,
+            "country": "IN",
+            "sunrise": 1705196705,
+            "sunset": 1705234453
+        },
+        "timezone": 19800,
+        "id": 1273294,
+        "name": "Delhi",
+        "cod": 200
+    },
+    "Hyderabad": {
+        "coord": {
+            "lon": 78.4744,
+            "lat": 17.3753
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 298.38,
+            "feels_like": 298.55,
+            "temp_min": 297.88,
+            "temp_max": 298.38,
+            "pressure": 1018,
+            "humidity": 61
+        },
+        "visibility": 3000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 120
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1705159832,
+        "sys": {
+            "type": 1,
+            "id": 9214,
+            "country": "IN",
+            "sunrise": 1705108737,
+            "sunset": 1705148972
+        },
+        "timezone": 19800,
+        "id": 1269843,
+        "name": "Hyderabad",
+        "cod": 200
+    },
+    "London": {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.02,
+            "feels_like": 272.65,
+            "temp_min": 274.84,
+            "temp_max": 277.04,
+            "pressure": 1014,
+            "humidity": 91
+        },
+        "visibility": 7000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 230
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1705217031,
+        "sys": {
+            "type": 2,
+            "id": 2075535,
+            "country": "GB",
+            "sunrise": 1705219240,
+            "sunset": 1705249051
+        },
+        "timezone": 0,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    },
+    "Bangalore": {
+        "coord": {
+            "lon": 77.6033,
+            "lat": 12.9762
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 300.08,
+            "feels_like": 300.44,
+            "temp_min": 298.36,
+            "temp_max": 301.95,
+            "pressure": 1018,
+            "humidity": 49
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1705216983,
+        "sys": {
+            "type": 2,
+            "id": 2017753,
+            "country": "IN",
+            "sunrise": 1705194911,
+            "sunset": 1705236060
+        },
+        "timezone": 19800,
+        "id": 1277333,
+        "name": "Bengaluru",
+        "cod": 200
+    },
+    "Rourkela": {
+        "coord": {
+            "lon": 84.8679,
+            "lat": 22.2309
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 299.63,
+            "feels_like": 299.63,
+            "temp_min": 299.63,
+            "temp_max": 299.63,
+            "pressure": 1014,
+            "humidity": 33,
+            "sea_level": 1014,
+            "grnd_level": 992
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.72,
+            "deg": 348,
+            "gust": 2.51
+        },
+        "clouds": {
+            "all": 10
+        },
+        "dt": 1705912474,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1705885307,
+            "sunset": 1705924895
+        },
+        "timezone": 19800,
+        "id": 1277247,
+        "name": "Rourkela",
+        "cod": 200
+    },
+    "dalhi": {
+        "cod": "404",
+        "message": "city not found"
+    }
+}
